@@ -1,0 +1,6 @@
+name: Delete old nodes
+description: Deletes nodes older than 30 days.
+package: Custom
+type: module
+version: 3.5
+core: 9.x

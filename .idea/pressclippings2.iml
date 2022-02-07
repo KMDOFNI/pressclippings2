@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/pear/pear-core-minimal" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/pear/pear_exception" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/pear/console_getopt" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/pear/archive_tar" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/laminas/laminas-stdlib" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/laminas/laminas-diactoros" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/laminas/laminas-feed" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/laminas/laminas-escaper" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony-cmf/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/stack/builder" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/typo3/phar-stream-wrapper" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/psr-http-message-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drupal/core-composer-scaffold" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drupal/core-project-message" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drupal/core-vendor-hardening" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

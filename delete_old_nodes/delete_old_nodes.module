@@ -1,0 +1,12 @@
+<?php
+
+function delete_old_nodes_cron() {
+
+  $query = \Drupal::entityQuery('node')
+    ->condition('created', strtotime('-10 day'), '<='); // Can change -2 week to -2 year or -3 day
+  $nids = $query->execute();
+  foreach ($nids as $nid) {
+    $node = node_load($nid);
+    $node->delete();
+  }
+}
