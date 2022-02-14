@@ -503,7 +503,7 @@ $settings['update_free_access'] = FALSE;
  * See https://www.drupal.org/documentation/modules/file for more information
  * about securing private files.
  */
-# $settings['file_private_path'] = '';
+ $settings['file_private_path'] = '../private';
 
 /**
  * Temporary file path:
@@ -779,4 +779,4 @@ $databases['default']['default'] = array (
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
 );
-$settings['config_sync_directory'] = 'sites/default/files/config_rr3kRtcnulu_rp03hynfqp-pQLHsetgVxJWfioZheISk85sfRF9fYIUkz_E11yDnwEMOQM31mw/sync';
+$settings['config_sync_directory'] = '/app/config/sync';

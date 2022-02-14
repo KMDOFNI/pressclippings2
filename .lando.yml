@@ -1,4 +1,14 @@
 name: pressclippings2
 recipe: drupal9
+#services:
+#  appserver:
+#    build:
+#      - composer install
 config:
   webroot: drupal9
+tooling:
+  drush:
+    service: appserver
+    cmd: /app/drupal9/vendor/bin/drush
+    env:
+      DRUSH_OPTIONS_URI: "https://pressclippings2.lndo.site"

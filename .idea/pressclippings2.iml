@@ -64,6 +64,30 @@
       <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/ralouphie/getallheaders" />
       <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drupal/core-project-message" />
       <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drupal/core-vendor-hardening" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/webflo/drupal-finder" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/enlightn/security-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/league/container" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/drush/drush" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/grasmash/expander" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/chi-teck/drupal-code-generator" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/dflydev/dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/config" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/annotated-command" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/site-process" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/log" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/robo" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/output-formatters" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/self-update" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/filter-via-dot-access-data" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/consolidation/site-alias" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/webmozart/path-util" />
+      <excludeFolder url="file://$MODULE_DIR$/drupal9/vendor/webmozart/assert" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
